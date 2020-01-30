@@ -1,5 +1,5 @@
 .flex {
-display: flex;
-background: blue;
-font-size: 22px;
+display:flex;
+background:blue !important;
+font-size:22px;
 }
